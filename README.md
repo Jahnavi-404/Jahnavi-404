@@ -1,5 +1,5 @@
 
-<h2 align="center" style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -30%); background-color: lightblue; padding: 10px; color: white; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);">Hi 👋! I'm Adari Anjana Jahnavi</h2>
+<h2 align="center" style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -30%); background-color: lightblue; padding: 10px; color: white; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);">Hi 👋! I'm Jahnavi Adari</h2>
 
 ---
 
