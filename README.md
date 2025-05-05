@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg" alt="Banner" width="100%" />
-</p>
 
 ---
 
